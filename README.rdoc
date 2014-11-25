@@ -1,3 +1,5 @@
+[![Build Status](https://snap-ci.com/shyba/sos_denuncia/branch/master/build_image)](https://snap-ci.com/shyba/sos_denuncia/branch/master)
+
 O SOS Denúncia é um projeto que tem o objetivo de facilitar e incentivar a realização de denúncias de casos de homofobia, violência contra a mulher, racismo, pedofilia, entre outros.
 
 Quer colaborar? Entre em contato :)
